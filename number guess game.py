@@ -26,4 +26,4 @@ while whilerunning:
             print("correct")
             whilerunning = False
 print(f"he correct answer is: {answer}")
-print(f"you have {guesses} times")
+print(f"you have tried {guesses} times")
